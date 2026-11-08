@@ -7,7 +7,11 @@ An interactive Power BI dashboard designed to explore public budget trends and f
 
 ## Project Overview
 
-This project applies Business Intelligence techniques to public finance data, transforming budget information into interactive visualizations that facilitate financial analysis and support data-driven interpretation.
+This project explores Egypt's public budget developments over the 2015–2025 period through an interactive Power BI dashboard, providing a historical perspective on the country's fiscal performance, expenditure patterns, revenue generation, and public debt dynamics.
+
+The dashboard examines the evolution of government revenues and expenditures, the overall budget balance, and debt servicing obligations, highlighting changes in Egypt's fiscal position over time. It also incorporates key fiscal indicators, including the primary balance as a percentage of GDP and debt principal and interest payments, to provide a broader understanding of public finance sustainability.
+
+By transforming historical budget data into interactive visualizations and financial indicators, the project aims to make Egypt's fiscal trends more accessible and facilitate the analysis of government spending, revenue performance, budget deficits, and debt-related pressures.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
@@ -28,8 +32,6 @@ This project applies Business Intelligence techniques to public finance data, tr
 - Data Visualization
 
 ## Project Files
-
-- `.pbix` — Interactive Power BI dashboard.
 - `Assets/` — Dashboard screenshots and visual outputs.
 
 ## Access to Project Files
