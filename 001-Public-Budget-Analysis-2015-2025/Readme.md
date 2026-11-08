@@ -38,7 +38,7 @@ Selected project materials and visual outputs are publicly available in this rep
 
 The complete working files, including original models, supporting calculations, and project documentation, are maintained in a private archive.
 
-**Request access to the complete project files:** [Request Access]([YOUR_GOOGLE_DRIVE_REQUEST_LINK](https://drive.google.com/drive/folders/1GvaExD5uwrtr4Lh5Tfhfk9NUIO-m4x0Z?usp=sharing))
+**Request access to the complete project files:** [Request Access](https://drive.google.com/drive/folders/1GvaExD5uwrtr4Lh5Tfhfk9NUIO-m4x0Z?usp=sharing)
 
 All original work remains the intellectual property of the author. Access is granted for personal review and evaluation purposes only and does not constitute permission to reproduce, redistribute, or commercially use the materials.
 
