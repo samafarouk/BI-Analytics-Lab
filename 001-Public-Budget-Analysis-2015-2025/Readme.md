@@ -4,6 +4,7 @@ An interactive Power BI dashboard designed to explore public budget trends and f
 ## Project Overview
 
 This project applies Business Intelligence techniques to public finance data, transforming budget information into interactive visualizations that facilitate financial analysis and support data-driven interpretation.
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-F1C40F?style=for-the-badge&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
