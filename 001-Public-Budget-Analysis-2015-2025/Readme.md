@@ -1,5 +1,7 @@
 # Public Budget Analysis (2015–2025)
-An interactive Power BI dashboard designed to explore public budget trends and fiscal developments over the 2015–2025 period.
+An interactive Power BI dashboard designed to explore public budget trends and fiscal developments over the 2015–2025 period in Egypt.
+
+![Public Budget Dashboard](https://raw.githubusercontent.com/samafarouk/BI-Analytics-Lab/main/Assets/public_budget.png)
 
 ## Project Overview
 
