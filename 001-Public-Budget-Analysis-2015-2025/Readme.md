@@ -1,6 +1,8 @@
 # Public Budget Analysis (2015–2025)
 An interactive Power BI dashboard designed to explore public budget trends and fiscal developments over the 2015–2025 period in Egypt.
 
+## Dashboard Preview
+
 ![Public Budget Dashboard](https://raw.githubusercontent.com/samafarouk/BI-Analytics-Lab/main/Assets/public_budget.png)
 
 ## Project Overview
@@ -25,14 +27,20 @@ This project applies Business Intelligence techniques to public finance data, tr
 - DAX
 - Data Visualization
 
-## Dashboard Preview
-
-![Public Budget Dashboard](YOUR_IMAGE_URL_HERE)
-
 ## Project Files
 
 - `.pbix` — Interactive Power BI dashboard.
 - `Assets/` — Dashboard screenshots and visual outputs.
+
+## Access to Project Files
+
+Selected project materials and visual outputs are publicly available in this repository.
+
+The complete working files, including original models, supporting calculations, and project documentation, are maintained in a private archive.
+
+**Request access to the complete project files:** [Request Access]([YOUR_GOOGLE_DRIVE_REQUEST_LINK](https://drive.google.com/drive/folders/1GvaExD5uwrtr4Lh5Tfhfk9NUIO-m4x0Z?usp=sharing))
+
+All original work remains the intellectual property of the author. Access is granted for personal review and evaluation purposes only and does not constitute permission to reproduce, redistribute, or commercially use the materials.
 
 ## Author
 Sama Farouk  
