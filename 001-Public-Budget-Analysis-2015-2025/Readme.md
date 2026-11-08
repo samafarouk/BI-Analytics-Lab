@@ -2,8 +2,7 @@
 An interactive Power BI dashboard designed to explore public budget trends and fiscal developments over the 2015–2025 period in Egypt.
 
 <p align="center">
-  
-  ![Public Budget Dashboard](https://raw.githubusercontent.com/samafarouk/BI-Analytics-Lab/main/Assets/public_budget.png)
+  <img src="https://raw.githubusercontent.com/samafarouk/BI-Analytics-Lab/main/001-Public-Budget-Analysis-2015-2025/Assets/Budget-Dashboard.png" width="900" alt="Public Budget Dashboard">
 </p>
 
 ## Project Overview
